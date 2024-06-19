@@ -1,4 +1,4 @@
-[Home](https://github.com/Addleo/TSSR/tree/S02-Bases_des_r%C3%A9seaux)  
+[Home](https://github.com/Addleo/TSSR/tree/main)  
 # S02 - Bases des réseaux  
 [Le modèle Osi](https://github.com/Addleo/TSSR/tree/Le_mod%C3%A8le_OSI)  
 [Les unités informatiques](https://github.com/Addleo/TSSR/tree/Les_unit%C3%A9s_informatiques)  
