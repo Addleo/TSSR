@@ -8,3 +8,4 @@
 ## Comprendre les unités informatiques
 - **Bits et octets :** 1 octet = 8 bits.
 - **Unités de mesure :** Kilo (K), Méga (M), Giga (G), Téra (T).
+ 
