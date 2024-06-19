@@ -1,11 +1,8 @@
-# Fiche de révision : Les unités informatiques
+# Fiche de révision : La communication
 
-## Numération et Conversion
-- **Système binaire :** Base 2, utilisé en informatique.
-- **Système décimal :** Base 10, utilisé couramment.
-- **Système hexadécimal :** Base 16, utilisé en programmation et réseau.
+## Domaine de diffusion et routage
+- **Domaine de diffusion :** Segment du réseau où une diffusion (broadcast) est propagée à tous les nœuds.
+- **Routage :** Processus de sélection des chemins dans un réseau pour envoyer des données d'un expéditeur à un destinataire.
 
-## Comprendre les unités informatiques
-- **Bits et octets :** 1 octet = 8 bits.
-- **Unités de mesure :** Kilo (K), Méga (M), Giga (G), Téra (T).
- 
+## Sur-réseau
+- **Sur-réseau (Supernetting) :** Agrégation de plusieurs réseaux en un seul plus grand pour simplifier le routage.
