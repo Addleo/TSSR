@@ -1,8 +1,6 @@
-# Fiche de révision : Les premières commandes
+# Fiche de révision : L’adressage IPv6
 
-## Commandes réseau de base
-- **ARP :** Résolution d'adresses IP en adresses MAC.
-- **PING :** Test de connectivité entre deux nœuds réseau.
-- **IPCONFIG :** Affichage de la configuration IP sur un hôte.
-- **NETSTAT :** Affichage des connexions réseau actives.
-- **TRACERT :** Affichage du chemin emprunté par les paquets pour atteindre une destination.
+## Présentation de l’adressage IPv6
+- **Adresse IPv6 :** 128 bits, représentée sous forme de huit groupes de quatre chiffres hexadécimaux séparés par des deux-points (ex : 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
+- **Simplification :** Omission des zéros initiaux et utilisation de `::` pour représenter des groupes de zéros continus.
+- **Types d’adresses :** Unicast, Multicast, Anycast.
