@@ -22,3 +22,4 @@
 
 ## Analogie avec La Poste
 - La communication entre couches OSI est comparée à l'envoi d'une lettre par la poste, avec chaque couche représentant une étape différente du processus d'envoi et de réception.
+ 
