@@ -1,10 +1,10 @@
-# Fiche de révision : Les unités informatiques
+# Fiche de révision : L’adressage IPv4
 
-## Numération et Conversion
-- **Système binaire :** Base 2, utilisé en informatique.
-- **Système décimal :** Base 10, utilisé couramment.
-- **Système hexadécimal :** Base 16, utilisé en programmation et réseau.
+## Présentation de l’adressage IPv4
+- **Adresse IPv4 :** 32 bits, souvent représentée sous forme de quatre nombres décimaux séparés par des points (ex : 192.168.0.1).
+- **Classes d’adresses :** A, B, C, D, E, définies par les bits initiaux de l'adresse.
+- **CIDR (Classless Inter-Domain Routing) :** Notation permettant une flexibilité dans le découpage des sous-réseaux.
 
-## Comprendre les unités informatiques
-- **Bits et octets :** 1 octet = 8 bits.
-- **Unités de mesure :** Kilo (K), Méga (M), Giga (G), Téra (T).
+## Calcul des adresses et sous-réseaux
+- **Adresse privée :** Adresses non routables sur Internet (ex : 192.168.x.x).
+- **APIPA :** Adressage automatique utilisé lorsque DHCP échoue (169.254.x.x).
