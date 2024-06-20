@@ -1,46 +1,18 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [SO1 - Outils collaboratifs](https://github.com/Addleo/TSSR/tree/S01-Outils_collaboratifs)  
-# Module 2 – Exploiter Teams et OneDrive dans un contexte collaboratif
+# Module 3 – Connaissance des notions de bases Word
 
-## Qu’est-ce que Teams ?
+## L’interface de Word
 
-- Espace de travail centralisé
-- Applications Office et autres en co-édition
-- 1 To de stockage
-- Conférence audio et vidéo
-- Partage d’écran
-- Planification de réunion
-- Fil de conversation
-- Enregistrement de réunion
-- Maximum de 250 équipes par utilisateur
-- Multi-plateformes
-- Un calendrier
+- Barre de titre : affiche le nom du fichier et du logiciel
+- Ruban : commandes par thèmes (Accueil, Mise en page, Affichage, etc.)
+- Barre d’accès rapide : personnalisable avec les commandes les plus utilisées
+- Zone utilisateur : affiche le nom de l’utilisateur de la licence
+- Barres de défilement : naviguer dans le document
+- Barre d’état : informations sur le document
+- Règles : positionner les éléments précisément
+- Zone de rédaction : contient le texte du document
 
-### Structure d’une équipe
+## Création d’un document
 
-- Membres, propriétaires
-- Canaux : général, groupe 1, groupe 2, etc.
-- Onglets : publications, fichiers, notes, applications
-
-### Créer une équipe dans Teams
-
-- Crée un nouveau groupe Microsoft 365
-- Crée un site SharePoint Online
-- Crée une boîte aux lettres partagée
-- Crée un bloc-note OneNote
-
-### Les paramètres d’une équipe Teams
-
-- Gérer :
-  - Image de l’équipe
-  - Autorisations des membres et invités
-  - Utilisation des mentions @mentions
-  - Code d’invitation
-  - Outils amusants (emojis, GIF, autocollants)
-  - Création de balises
-
-### La gestion des fichiers Teams
-
-- Accessibles par tous les membres de l’équipe
-- Stockés dans une bibliothèque SharePoint
-- Fonctionnalités de versioning et co-authoring
-- Transformation de fichier en onglet
+- Afficher les caractères non imprimables : Menu « Accueil »
+- Écrire plusieurs pages du document
