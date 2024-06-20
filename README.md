@@ -1,36 +1,39 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [SO1 - Outils collaboratifs](https://github.com/Addleo/TSSR/tree/S01-Outils_collaboratifs)  
-# Module 4 – Connaissance des notions de bases Excel
+# Module 5 – Exploiter Outlook et savoir le dépanner
 
 ## Objectifs
 
-- Apprendre à créer et formater des feuilles de calcul
-- Utiliser des formules et des fonctions de base
-- Gérer les données dans Excel
-- Créer des graphiques simples
+- Apprendre à configurer et utiliser Outlook
+- Gérer les courriels, calendriers, contacts et tâches
+- Utiliser les fonctionnalités avancées d’Outlook
+- Dépanner les problèmes courants d’Outlook
 
-## L’interface d’Excel
+## Configuration de Outlook
 
-- Barre de titre
-- Ruban
-- Barre de formules
-- Colonnes et lignes
-- Onglets de feuille
-- Barre d’état
+- Ajouter un compte de messagerie
+- Paramétrer les options de messagerie
+- Synchronisation avec d’autres dispositifs
 
-## Utilisation de Formules et Fonctions
+## Gestion des Courriels
 
-- Formules de base (addition, soustraction, multiplication, division)
-- Fonctions courantes (SOMME, MOYENNE, MIN, MAX)
-- Utilisation des références relatives et absolues
+- Création et envoi de courriels
+- Utilisation des dossiers pour organiser les courriels
+- Filtrage et recherche de courriels
 
-## Gestion des Données
+## Utilisation du Calendrier
 
-- Tri et filtrage des données
-- Utilisation de tableaux
-- Validation des données
+- Création et gestion des rendez-vous et événements
+- Partage du calendrier
+- Planification de réunions
 
-## Création de Graphiques
+## Contacts et Tâches
 
-- Insertion de graphiques
-- Types de graphiques courants (histogrammes, courbes, secteurs)
-- Personnalisation des graphiques
+- Gestion des contacts
+- Création et suivi des tâches
+- Utilisation des listes de tâches
+
+## Dépannage
+
+- Résolution des problèmes de synchronisation
+- Réparation des fichiers PST et OST
+- Résolution des problèmes de connexion
