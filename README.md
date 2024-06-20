@@ -1,18 +1,36 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [SO1 - Outils collaboratifs](https://github.com/Addleo/TSSR/tree/S01-Outils_collaboratifs)  
-# Module 3 – Connaissance des notions de bases Word
+# Module 4 – Connaissance des notions de bases Excel
 
-## L’interface de Word
+## Objectifs
 
-- Barre de titre : affiche le nom du fichier et du logiciel
-- Ruban : commandes par thèmes (Accueil, Mise en page, Affichage, etc.)
-- Barre d’accès rapide : personnalisable avec les commandes les plus utilisées
-- Zone utilisateur : affiche le nom de l’utilisateur de la licence
-- Barres de défilement : naviguer dans le document
-- Barre d’état : informations sur le document
-- Règles : positionner les éléments précisément
-- Zone de rédaction : contient le texte du document
+- Apprendre à créer et formater des feuilles de calcul
+- Utiliser des formules et des fonctions de base
+- Gérer les données dans Excel
+- Créer des graphiques simples
 
-## Création d’un document
+## L’interface d’Excel
 
-- Afficher les caractères non imprimables : Menu « Accueil »
-- Écrire plusieurs pages du document
+- Barre de titre
+- Ruban
+- Barre de formules
+- Colonnes et lignes
+- Onglets de feuille
+- Barre d’état
+
+## Utilisation de Formules et Fonctions
+
+- Formules de base (addition, soustraction, multiplication, division)
+- Fonctions courantes (SOMME, MOYENNE, MIN, MAX)
+- Utilisation des références relatives et absolues
+
+## Gestion des Données
+
+- Tri et filtrage des données
+- Utilisation de tableaux
+- Validation des données
+
+## Création de Graphiques
+
+- Insertion de graphiques
+- Types de graphiques courants (histogrammes, courbes, secteurs)
+- Personnalisation des graphiques
