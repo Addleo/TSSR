@@ -1,20 +1,16 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [S03&4 Window & CLient](https://github.com/Addleo/TSSR/tree/S03%264-Windows_client)  
-# Module 6 - La sécurité NTFS et les ACL
+# Module 7 - La gestion du réseau et du pare-feu
 
 ## Objectifs
-- Comprendre les concepts de sécurité NTFS
-- Configurer les permissions NTFS
-- Utiliser les listes de contrôle d'accès (ACL)
+- Configurer les paramètres réseau de Windows 10
+- Comprendre et utiliser le pare-feu de Windows
 
 ## Contenu
-### Sécurité NTFS
-- Présentation du système de fichiers NTFS
-- Avantages en termes de sécurité
+### Paramètres réseau
+- Configuration IP : DHCP, adresse IP statique
+- Configuration des paramètres DNS
 
-### Permissions NTFS
-- Types de permissions : lecture, écriture, exécution
-- Configuration des permissions pour les fichiers et dossiers
-
-### Listes de contrôle d'accès (ACL)
-- Création et gestion des ACL
-- Utilisation des outils pour configurer les ACL
+### Pare-feu Windows
+- Présentation du pare-feu Windows
+- Configuration des règles de pare-feu
+- Utilisation de l'outil de gestion du pare-feu
