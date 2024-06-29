@@ -1,16 +1,20 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [S03&4 Window & CLient](https://github.com/Addleo/TSSR/tree/S03%264-Windows_client)  
-# Module 7 - La gestion du réseau et du pare-feu
+# Module 8 - Le partage de ressources
 
 ## Objectifs
-- Configurer les paramètres réseau de Windows 10
-- Comprendre et utiliser le pare-feu de Windows
+- Configurer le partage de fichiers et dossiers
+- Gérer les permissions de partage
+- Utiliser les outils de gestion du partage de ressources
 
 ## Contenu
-### Paramètres réseau
-- Configuration IP : DHCP, adresse IP statique
-- Configuration des paramètres DNS
+### Partage de fichiers et dossiers
+- Configuration du partage sur le réseau
+- Paramètres de partage avancés
 
-### Pare-feu Windows
-- Présentation du pare-feu Windows
-- Configuration des règles de pare-feu
-- Utilisation de l'outil de gestion du pare-feu
+### Permissions de partage
+- Configuration des permissions de partage
+- Gestion des utilisateurs et groupes ayant accès
+
+### Outils de gestion
+- Utilisation de l'explorateur de fichiers
+- Utilisation de l'outil de gestion du partage
