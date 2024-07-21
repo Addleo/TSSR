@@ -1,29 +1,25 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [S06 Admin Debian](https://github.com/Addleo/TSSR/tree/S06%267-Admin_Debian)  
-  
-# Module 1: Introduction à Debian
 
-## Introduction
+# Module 2: Installation de Debian
 
--   **Conventions typographiques**:
-    -   `Commande [options] <Argument>`
-    -   `$` : utilisateur standard
-    -   `#` : compte root
+## Modes d'installation
 
-## Historique
+-   **CD-ROM/DVD-ROM**:
+    -   Images Debian-live, netinst, etc.
+-   **Clé USB**:
+    -   Utilitaires comme unetbootin.
+-   **Boot réseau**:
+    -   PXE et TFTP.
+-   **Autres méthodes**:
+    -   Installation automatique (FAI), clonage (Clonezilla).
 
--   **Debian**:
-    -   Créée en 1993.
-    -   Objectifs : qualité et aspect non commercial.
-    -   Contrat social : liberté totale, travaux donnés à la communauté, transparence, priorité aux utilisateurs et logiciels libres.
+## Installation
 
-## Portabilité
-
--   **Architectures supportées**:
-    -   Intel x86 (i386), AMD64 (amd64), ARM (armel, armhf), etc.
-
-## Rolling Releases et versions stables
-
--   **Versions**:
-    -   **Stable**: mises à jour de sécurité.
-    -   **Testing**: future version stable.
-    -   **Unstable**: évolution constante (Sid).
+-   **Partitionnement**:
+    -   Minimum : racine (`/`) et SWAP.
+    -   Quantité de SWAP : varie selon la RAM.
+-   **Phases importantes**:
+    -   Choix de la langue et du clavier.
+    -   Création du mot de passe root / premier utilisateur.
+    -   Partitionner les disques.
+    -   Sélection des logiciels.
