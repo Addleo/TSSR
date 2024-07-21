@@ -1,12 +1,11 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [S05 Linux util](https://github.com/Addleo/TSSR/tree/S05-Linux_util)  
   
-# Module 7 - Afficher du texte
+# Module 8 - Gestion des liens
 
-## Commandes d'affichage de texte
-- `cat` : Affiche et concatène des fichiers.
-- `more` : Visualisation avec pause à chaque page.
-- `less` : Visualisation avec pause à chaque page, navigation en arrière possible.
-- `head` : Affiche les premières lignes d'un fichier.
-- `tail` : Affiche les dernières lignes d'un fichier.
-- `wc` : Compte les lignes, mots et caractères d'un fichier.
-- `diff` : Liste les différences entre deux fichiers.
+## Liens symboliques et matériels
+- **Lien symbolique (soft link)** : Pointeur vers un autre fichier.
+- **Lien matériel (hard link)** : Référence directe à un inode d'un fichier.
+
+## Commandes de gestion des liens
+- `ln` : Crée des liens symboliques ou matériels.
+- Options : `-s` pour créer un lien symbolique.
