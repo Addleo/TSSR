@@ -1,25 +1,14 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [S06 Admin Debian](https://github.com/Addleo/TSSR/tree/S06%267-Admin_Debian)  
 
-# Module 2: Installation de Debian
+# Module 3: Démarrage du système
 
-## Modes d'installation
+## Chargeur d’amorçage (boot loader)
 
--   **CD-ROM/DVD-ROM**:
-    -   Images Debian-live, netinst, etc.
--   **Clé USB**:
-    -   Utilitaires comme unetbootin.
--   **Boot réseau**:
-    -   PXE et TFTP.
--   **Autres méthodes**:
-    -   Installation automatique (FAI), clonage (Clonezilla).
+-   **GRUB2**:
+    -   Divisé en plusieurs stages.
+    -   Fichiers de configuration : `/boot/grub/grub.cfg`, `/etc/default/grub`, `/etc/grub.d/`.
 
-## Installation
+## GRUB au démarrage
 
--   **Partitionnement**:
-    -   Minimum : racine (`/`) et SWAP.
-    -   Quantité de SWAP : varie selon la RAM.
--   **Phases importantes**:
-    -   Choix de la langue et du clavier.
-    -   Création du mot de passe root / premier utilisateur.
-    -   Partitionner les disques.
-    -   Sélection des logiciels.
+-   **Menu GRUB**:
+    -   Sélectionner le noyau ou le mode de démarrage.
