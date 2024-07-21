@@ -1,39 +1,29 @@
-[Home](https://github.com/Addleo/TSSR/tree/main) > [S05 Linux util](https://github.com/Addleo/TSSR/tree/S05-Linux_util)  
+[Home](https://github.com/Addleo/TSSR/tree/main) > [S06 Admin Debian](https://github.com/Addleo/TSSR/tree/S06%267-Admin_Debian)  
   
-# Module 1 - Introduction à GNU/Linux
+# Module 1: Introduction à Debian
 
-## Conventions typographiques
-- Syntaxe des commandes : `Commande [options] <Argument>`
-- Exemple de commande : `$ Commande`
-- Prompt utilisateur standard : `$`
-- Prompt administrateur (root) : `#`
+## Introduction
+
+-   **Conventions typographiques**:
+    -   `Commande [options] <Argument>`
+    -   `$` : utilisateur standard
+    -   `#` : compte root
 
 ## Historique
-- **1969** : Bell Labs se retire du projet MULTICS.
-- **1971** : Première version d'UNIX sur PDP 11/20.
-- **1973** : Noyau UNIX réécrit en langage C.
-- **1984** : Création du projet GNU par Richard Stallman.
-- **1991** : Naissance du noyau Linux.
 
-## Licences libres
-- **GNU GPL** : Garantit quatre libertés (exécution, étude, redistribution, amélioration).
-- Autres licences : Apache, BSD, Creative Commons, etc.
+-   **Debian**:
+    -   Créée en 1993.
+    -   Objectifs : qualité et aspect non commercial.
+    -   Contrat social : liberté totale, travaux donnés à la communauté, transparence, priorité aux utilisateurs et logiciels libres.
 
-## Qu'est-ce qu'un système d'exploitation ?
-- Programme gérant les ressources matérielles d'un ordinateur.
-- Exemples : UNIX, GNU/Linux, Windows, OS-X.
+## Portabilité
 
-## Le noyau UNIX
-- Programme principal du système.
-- Gère les ressources matérielles et les tâches.
+-   **Architectures supportées**:
+    -   Intel x86 (i386), AMD64 (amd64), ARM (armel, armhf), etc.
 
-## Langages Shell
-- Interprète les commandes entrées par l'utilisateur.
-- Sensible à la casse (majuscules/minuscules).
-- Permet l'écriture de scripts Shell.
+## Rolling Releases et versions stables
 
-## Syntaxe des commandes
-- Commande doit être en premier dans l'instruction.
-- Options modifient le comportement de la commande.
-- Arguments sont les éléments utiles à la commande.
-- Exemple : `ls -l /etc`
+-   **Versions**:
+    -   **Stable**: mises à jour de sécurité.
+    -   **Testing**: future version stable.
+    -   **Unstable**: évolution constante (Sid).
