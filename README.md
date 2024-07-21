@@ -1,10 +1,12 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [S06 Admin Debian](https://github.com/Addleo/TSSR/tree/S06%267-Admin_Debian)  
 
-# Module 4: Mode maintenance au démarrage
+# Module 5: Gestion basique du réseau
 
-## Méthodes avec GRUB
+## Informations générales
 
--   **Première méthode**:
-    -   Modifier les options de démarrage.
--   **Deuxième méthode**:
-    -   Utiliser le mode de récupération de GRUB.
+-   **Commandes de prise d'information**:
+    -   `ifconfig`, `ip addr`.
+-   **Configuration sans interface graphique**:
+    -   Modifier `/etc/network/interfaces`.
+-   **Configuration avec interface graphique**:
+    -   Utiliser Network Manager.
