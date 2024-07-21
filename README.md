@@ -7,3 +7,5 @@ Des fiches de révisions pour la formation TSSR de l'ENI
 ## [Semaine 3 & 4 - Windows client](https://github.com/Addleo/TSSR/tree/S03%264-Windows_client)
 
 ## [Semaine 5 - Utilisation Linux](https://github.com/Addleo/TSSR/tree/S05-Linux_util)
+
+## [Semaine 6 - Admin Debian](https://github.com/Addleo/TSSR/tree/S06%267-Admin_Debian)
