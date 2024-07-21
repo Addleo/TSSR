@@ -1,12 +1,19 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [S06 Admin Debian](https://github.com/Addleo/TSSR/tree/S06%267-Admin_Debian)  
 
-# Module 6: Gestion des paquets
+# Module 7: Gestion des espaces de stockage
 
-## Releases et gestion des dépôts
+## Partitionnement
 
--   **Sources de paquets**:
-    -   Fichier `/etc/apt/sources.list`.
--   **Gestion courante**:
-    -   `apt-get update`, `apt-get upgrade`.
--   **Installation depuis les sources**:
-    -   Téléchargement, compilation.
+-   **Outils**:
+    -   `fdisk`, `parted`.
+-   **LVM**:
+    -   Créer et gérer des volumes logiques.
+-   **Systèmes de fichiers**:
+    -   `mkfs`, `fsck`.
+
+## Montage des systèmes de fichiers
+
+-   **Commandes**:
+    -   `mount`, `umount`.
+-   **Montage automatique**:
+    -   Fichier `/etc/fstab`.
