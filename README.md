@@ -1,15 +1,24 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [S05 Linux util](https://github.com/Addleo/TSSR/tree/S05-Linux_util)  
   
-# Module 4 - Le Shell
+# Module 5 - Arborescence UNIX/Linux
 
-## Le Shell
-- Interpréteur de commandes.
-- Traite les entrées et sorties sous forme de flux.
+## FHS (Filesystem Hierarchy Standard)
+- Standard de hiérarchie des systèmes de fichiers.
 
-## Historique et autocomplétion
-- **Historique** : Accès aux commandes précédentes.
-- **Autocomplétion** : Complète les commandes partiellement tapées.
+## Chemins
+- **Chemin absolu** : Commence à la racine `/`.
+- **Chemin relatif** : Relatif au répertoire courant.
 
-## Aide en ligne
-- **man** : Affiche le manuel des commandes.
-- **--help** : Affiche l'aide pour une commande spécifique.
+## Types de fichiers
+- Fichiers réguliers, répertoires, liens symboliques, périphériques, etc.
+
+## Commandes de gestion des fichiers
+- `pwd` : Affiche le répertoire courant.
+- `cd` : Change de répertoire.
+- `mkdir` : Crée un répertoire.
+- `ls` : Liste les fichiers.
+- `touch` : Crée ou modifie l'horodatage d'un fichier.
+- `cp` : Copie des fichiers.
+- `rm` : Supprime des fichiers.
+- `mv` : Déplace ou renomme des fichiers.
+- `file` : Détermine le type de fichier.
