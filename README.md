@@ -1,10 +1,3 @@
 [Home](https://github.com/Addleo/TSSR/tree/main)  
-# Semaine 3 & 4 - Windows client  
-## [Les systèmes d'exploitation et Microsoft Windows 10](https://github.com/Addleo/TSSR/tree/Les_syst%C3%A8mes_d'exploitation_et_Microsoft_Windows_10)  
-## [Installation de Windows 10](https://github.com/Addleo/TSSR/tree/Installation_de_Windows_10)  
-## [Interagir avec Windows 10](https://github.com/Addleo/TSSR/tree/Interagir_avec_Windows_10)  
-## [La gestion du stockage](https://github.com/Addleo/TSSR/tree/La_gestion_du_stockage)  
-## [Les utilisateurs et les groupes](https://github.com/Addleo/TSSR/tree/Les_utilisateurs_et_les_groupes)  
-## [La sécurité NTFS et les ACL](https://github.com/Addleo/TSSR/tree/La_s%C3%A9curit%C3%A9_NTFS_et_les_ACL)  
-## [La gestion du réseau et du pare-feu](https://github.com/Addleo/TSSR/tree/La_gestion_du_r%C3%A9seau_et_du_pare-feu)  
-## [Le partage de ressources](https://github.com/Addleo/TSSR/tree/Le_partage_de_ressources)  
+# Semaine 5 - Utilisation linux  
+## []()  
