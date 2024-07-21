@@ -1,13 +1,12 @@
 [Home](https://github.com/Addleo/TSSR/tree/main) > [S05 Linux util](https://github.com/Addleo/TSSR/tree/S05-Linux_util)  
   
-# Module 6 - Caractères spéciaux
+# Module 7 - Afficher du texte
 
-## Métacaractères
-- `*` : Remplace n'importe quel nombre de caractères.
-- `?` : Remplace un seul caractère.
-- `[]` : Correspond à un ensemble de caractères.
-
-## Caractères spéciaux
-- `\` : Échappe un caractère spécial.
-- `"` : Utilisé pour entourer des chaînes de caractères.
-- `'` : Utilisé pour entourer des chaînes de caractères littérales.
+## Commandes d'affichage de texte
+- `cat` : Affiche et concatène des fichiers.
+- `more` : Visualisation avec pause à chaque page.
+- `less` : Visualisation avec pause à chaque page, navigation en arrière possible.
+- `head` : Affiche les premières lignes d'un fichier.
+- `tail` : Affiche les dernières lignes d'un fichier.
+- `wc` : Compte les lignes, mots et caractères d'un fichier.
+- `diff` : Liste les différences entre deux fichiers.
