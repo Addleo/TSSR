@@ -8,4 +8,4 @@ Des fiches de révisions pour la formation TSSR de l'ENI
 
 ## [Semaine 5 - Utilisation Linux](https://github.com/Addleo/TSSR/tree/S05-Linux_util)
 
-## [Semaine 6 - Admin Debian](https://github.com/Addleo/TSSR/tree/S06%267-Admin_Debian)
+## [Semaine 6 & 7 - Admin Debian](https://github.com/Addleo/TSSR/tree/S06%267-Admin_Debian)
